@@ -24,7 +24,7 @@ public final class GetterController1 implements GetterController {
 
     private String user = ""; //Here is where you input the user
     private String host = ""; //Here is where you input the domain or ip
-    private int port = 49;
+    private int port = 22;
     private String Mailbox = ""; //Here is where you input the path the 'Mailbox' directory where you want the program to send and check for files
     private String Password = ""; //Enter the password here
     //TODO
