@@ -3,5 +3,5 @@
 
 -------------------------------------------------------------------------------------------------
 ### Usage:
-1. Edit the src/GetterController1.java file to correspond with the server and creditials. (I will do key files later)
+1. Edit the src/GetterController1.java file to correspond with the server and credentials. (I will do key files later)
 2. Build with the OSU library that I have linked.
